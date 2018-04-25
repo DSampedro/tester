@@ -4,7 +4,10 @@
 
 ### Por fin conectados
 
-Mi texto
 
 Mi segundo texto
 Modificacion localo
+
+Nueva opcion git
+
+Mas texto
